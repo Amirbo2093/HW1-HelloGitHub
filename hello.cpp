@@ -1,7 +1,7 @@
 /**
  * @file hello.cpp
  * @author Amir S. Peat (apeat@skyhawks.utm.edu)
- * @brief  Prints out hello
+ * @brief  Prints out hello 
  */
 #include <iostream>
 
